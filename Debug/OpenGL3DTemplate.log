@@ -1,0 +1,28 @@
+﻿  GLTexture.cpp
+C:\Users\Omar\Desktop\House of the MemeZ\GLTexture.cpp(61,1): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(234): message : see declaration of '_strlwr'
+C:\Users\Omar\Desktop\House of the MemeZ\GLTexture.cpp(65,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : see declaration of 'strtok'
+C:\Users\Omar\Desktop\House of the MemeZ\GLTexture.cpp(77,1): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(234): message : see declaration of '_strlwr'
+C:\Users\Omar\Desktop\House of the MemeZ\GLTexture.cpp(146,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  Model_3DS.cpp
+  C:\Users\Omar\Desktop\House of the MemeZ\Model_3DS.cpp(78) : You need to uncomment this if you are using MFC
+C:\Users\Omar\Desktop\House of the MemeZ\Model_3DS.cpp(182,1): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : see declaration of 'strtok'
+C:\Users\Omar\Desktop\House of the MemeZ\Model_3DS.cpp(212,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Omar\Desktop\House of the MemeZ\Model_3DS.cpp(764,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  OpenGL3DTemplate.cpp
+C:\Users\Omar\Desktop\House of the MemeZ\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\Desktop\House of the MemeZ\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Omar\Desktop\House of the MemeZ\OpenGL3DTemplate.cpp(1772,13): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+C:\Users\Omar\Desktop\House of the MemeZ\OpenGL3DTemplate.cpp(2268,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Omar\Desktop\House of the MemeZ\OpenGL3DTemplate.cpp(2475,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  Generating Code...
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\Omar\Desktop\House of the MemeZ\Debug\OpenGL3DTemplate.exe
